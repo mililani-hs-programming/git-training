@@ -1,4 +1,4 @@
-this is a simple example project to show how git wks.
+this is a simple example project to show how git works.
 
 USEFUL RESOURCES:
 https://ohshitgit.com
